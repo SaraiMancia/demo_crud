@@ -9,4 +9,5 @@ public class variables {
     int telefono;
     
     
+    
 }
