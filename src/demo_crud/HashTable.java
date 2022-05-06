@@ -6,10 +6,10 @@ import java.util.Scanner;
 
 public class HashTable {
     public static void main(String[] args) {
-        HashTable objeto = new HashTable(); 
+        estudiante objeto = new estudiante();
     
         Scanner leer= new Scanner(System.in);
-        Hashtable <String,String> Estudiante = new Hashtable <String,String>();
+        estudiante <String,String> Estudiante = new estudiante <String,String>();
     
         for (int i = 1; i <=5; i++) {
             System.out.println("Ingrese el N° de carnet del estudiante: "+i);
