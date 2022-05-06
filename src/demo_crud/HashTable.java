@@ -6,9 +6,10 @@ import java.util.Scanner;
 
 public class HashTable {
     public static void main(String[] args) {
-        HashTable objeto = new HashTable(); 
+        
     
         Scanner leer= new Scanner(System.in);
+         estudiante objeto = new estudiante();
         Hashtable <String,String> Estudiante = new Hashtable <String,String>();
     
         for (int i = 1; i <=5; i++) {
