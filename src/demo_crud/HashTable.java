@@ -6,7 +6,11 @@ import java.util.Scanner;
 
 public class HashTable {
     public static void main(String[] args) {
+<<<<<<< HEAD
         
+=======
+        estudiante objeto = new estudiante(); 
+>>>>>>> 573879f8682d6b30be37982348e207eb8b596069
     
         Scanner leer= new Scanner(System.in);
          estudiante objeto = new estudiante();
